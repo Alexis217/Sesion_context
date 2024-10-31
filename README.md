@@ -10,7 +10,6 @@ Este proyecto es una aplicación de autenticación básica en la que los usuario
 4. [Instalación y Ejecución](#instalación-y-ejecución)
 5. [Uso](#uso)
 6. [Funcionalidades Adicionales](#funcionalidades-adicionales)
-7. [Créditos](#créditos)
 
 ## Características
 
@@ -51,13 +50,13 @@ Este proyecto es una aplicación de autenticación básica en la que los usuario
    ```
    PORT=3000
    ```
-3. **Uso**:
+3. ## **Uso**:
 
    1. **Iniciar sesión**: Ingresa el nombre de usuario y la contraseña. Si las credenciales son correctas, verás una pantalla de bienvenida.
 
    2. **Cerrar sesión**: Haz clic en "Cerrar sesión" en la pantalla de bienvenida para salir de la cuenta.
 
-4. **Funcionalidades Adicionales**
+4. ## **Funcionalidades Adicionales**
 
    - **Indicador de carga**: Muestra el estado de carga mientras el backend procesa la autenticación.
 
