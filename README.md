@@ -50,16 +50,17 @@ Este proyecto es una aplicación de autenticación básica en la que los usuario
    ```
    PORT=3000
    ```
-3. ## **Uso**:
 
-   1. **Iniciar sesión**: Ingresa el nombre de usuario y la contraseña. Si las credenciales son correctas, verás una pantalla de bienvenida.
+## **Uso**:
 
-   2. **Cerrar sesión**: Haz clic en "Cerrar sesión" en la pantalla de bienvenida para salir de la cuenta.
+1.  **Iniciar sesión**: Ingresa el nombre de usuario y la contraseña. Si las credenciales son correctas, verás una pantalla de bienvenida.
 
-4. ## **Funcionalidades Adicionales**
+2.  **Cerrar sesión**: Haz clic en "Cerrar sesión" en la pantalla de bienvenida para salir de la cuenta.
 
-   - **Indicador de carga**: Muestra el estado de carga mientras el backend procesa la autenticación.
+## **Funcionalidades Adicionales**
 
-   - **Animaciones**: Se aplican animaciones de entrada con animate.css
+- **Indicador de carga**: Muestra el estado de carga mientras el backend procesa la autenticación.
 
-   - **Alertas con AlertifyJS**: Muestra notificaciones de éxito o error al usuario.
+- **Animaciones**: Se aplican animaciones de entrada con animate.css
+
+- **Alertas con AlertifyJS**: Muestra notificaciones de éxito o error al usuario.
